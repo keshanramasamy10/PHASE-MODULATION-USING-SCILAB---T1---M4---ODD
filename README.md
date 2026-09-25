@@ -39,7 +39,11 @@ Where:
    * Compute the phase-modulated signal $s(t) = A_c \cos(2\pi f_c t + k_p m(t))$.
 6. **Plot the Signals:**
    * Use Scilab's plotting commands (`subplot`, `plot`, `xtitle`, `xgrid`) to display message, carrier, and modulated signals.
+     
+<img width="1456" height="848" alt="WhatsApp Image 2026-09-25 at 1 53 42 PM" src="https://github.com/user-attachments/assets/8be8d703-b3e4-40c5-8a53-cd051e116d83" />
 
 ---
 
 ## MODEL GRAPH
+<img width="1427" height="758" alt="WhatsApp Image 2026-09-25 at 1 54 50 PM" src="https://github.com/user-attachments/assets/a7b48c5f-2ed6-4c77-9051-85c70dd2d5d8" />
+
